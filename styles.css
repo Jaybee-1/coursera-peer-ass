@@ -1,0 +1,13 @@
+*{
+    box-sizing:border-box;
+margin:0;
+padding:0
+}
+@media query(min-width:992px){
+  heading{
+    font-size: 30px;
+    font-weight: 500;
+    float: center;
+    width: 100%;
+  }
+}
